@@ -37,39 +37,42 @@ My app is called Aim trainer. It's a reaction and aiming training aid. 1 player 
 - As a player, I would like to play this game with adjustable difficulties.
 
 ## Pseudocode
-```js
-// 1) Define any variables used to track the state of the game:
-//    The players choice
-//    The computers choice
-//    The round score
-//    A result message - display score
+Make the game screen.
 
-// 2) Define the required constants:
-//    
-//    
+Make the score display, time display, start button, reset button, and time option.
 
-// 3) Handle a player clicking a button
+Make an empty list for targets.
 
-// 4) 
+Make variables for the game loop and timer.
 
-// 5) 
+Track game state.
 
-// 6) 
-//    
-//   
+Make targets.
+
+Get where the player clicked.
+
+Check if the click hits a target.
+
+Add one to score.
+
+End the game.
+
+Show a message with your score.
+
+Reset game.
 ```
 
-#### Timeline - Daily Accountability
+Timeline - Daily Accountability
 
-| Day        |   | Task                                              | Blockers | On track?  W/WY                         |   
-|------------|---|---------------------------------------------------|----------|-----------------------------------------|
-| Saturday   |   | Think over game idea and work on proposal         |          |                 |
-| Sunday     |   | Finish proposal and prepare repo for presensation |          |                 |
-| Monday     |   | Create basic scaffolding                          |          |                 |
-| Tuesday    |   | Add functionality                                 |          |                 |
-| Wedenesday |   | Add styling                                       |          |                 |
-| Thursday   |   | Finaliza MVP                                      |          |                 |
-| Friday     |   | Work on stretch goals/ add polish                 |          |                 |
-| Saturday   |   | Work on stretch goals/ add polish                 |          |                 |
-| Sunday     |   | Submit if not done already                        |          |                 |
-| Monday     |   | Presentation Day!                                 |          |                 |
+| Day        || Task                                              | Blockers | On track?  W/WY |  
+|------------||---------------------------------------------------|----------|-----------------|
+| Saturday   || Think over game idea and work on proposal         |          |                 |
+| Sunday     || Finish proposal and prepare repo for presensation |          |                 |
+| Monday     || Create basic scaffolding                          |          |                 |
+| Tuesday    || Add functionality                                 |          |                 |
+| Wedenesday || Add styling                                       |          |                 |
+| Thursday   || Finaliza MVP                                      |          |                 |
+| Friday     || Work on stretch goals/ add polish                 |          |                 |
+| Saturday   || Work on stretch goals/ add polish                 |          |                 |
+| Sunday     || Submit if not done already                        |          |                 |
+| Monday     || Presentation Day!                                 |          |                 |
