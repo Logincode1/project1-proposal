@@ -41,8 +41,8 @@ My app is called Aim trainer. It's a reaction and aiming training aid. 1 player 
 // 1) Define any variables used to track the state of the game:
 //    The players choice
 //    The computers choice
-//    The match result - win/lose/tie
-//    A result message - display who won that round
+//    The round score
+//    A result message - display score
 
 // 2) Define the required constants:
 //    
